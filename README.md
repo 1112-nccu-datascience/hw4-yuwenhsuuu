@@ -2,7 +2,7 @@
 
 #### Name: 徐宇文
 #### Student ID: 111356003
-#### ShinyApps link: [<https://yourname.shinyapps.io/NCCU_DS2023_hw4_studentID/>]
+#### ShinyApps link: https://yuwenhsuuu.shinyapps.io/NCCU_DS2023_hw4_111356003/
 
 ## Description
 
